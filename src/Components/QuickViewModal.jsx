@@ -94,7 +94,7 @@ const QuickViewModal = ({ product, onClose }) => {
       };
       
       // hdi hna khss i3tdar itseft produc api
-      const response = await fetch('https://ecommerce-backend-mu-azure.vercel.app/', {
+      const response = await fetch('https://ecommerce-backend-mu-azure.vercel.app/api/orders', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
