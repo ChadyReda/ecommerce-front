@@ -288,7 +288,7 @@ const Products = () => {
               {/* Products Section */}
               <ProductsSection showAllProducts={true} />
 
-              {/* Collections Info nigga bitch  hhh */}
+              {/* Collections*/}
               <div className="collections-info">
                 <div className="info-card">
                   <div className="info-icon">🎨</div>
