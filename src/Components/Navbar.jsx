@@ -40,7 +40,7 @@ const Navbar = () => {
       <div className={`navbar-container ${isScrolled ? 'scrolled' : ''}`}>
         <Link to="/" className="navbar-brand" aria-label="Home">
           <span className="brand-icon">⚡</span>
-          <span className="brand-text">Wadii</span>
+          <span className="brand-text">Nasma</span>
         </Link>
         
         
